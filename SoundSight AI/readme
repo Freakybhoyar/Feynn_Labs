@@ -1,1 +1,3 @@
+__SoundSight AI__
 
+SoundSight AI is a music analytics tool that leverages track metadata to provide actionable insights into music trends and revenue potential. This project includes modules for data segmentation, market analysis, financial modeling, and forecasting. By analyzing various musical attributes like danceability, energy, and popularity, SoundSight AI empowers stakeholders with in-depth data-driven insights.
